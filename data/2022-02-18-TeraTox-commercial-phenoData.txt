@@ -1,10 +1,10 @@
 	Contrast	Compound_Name	Concentration	ConcLabel	Viability	Cytotoxicity	Teratogenicity	mEST
-Amoxicillin_DoseA	Amoxycillin_DoseA	Amoxycillin	2e-04	6	0.9053756003774	0.0946243996225998	Negative	Negative
-Amoxicillin_DoseB	Amoxycillin_DoseB	Amoxycillin	1e-04	5	0.977816937888136	0.0221830621118636	Negative	Negative
-Amoxicillin_DoseC	Amoxycillin_DoseC	Amoxycillin	5e-05	4	0.912547677398922	0.0874523226010784	Negative	Negative
-Amoxicillin_DoseD	Amoxycillin_DoseD	Amoxycillin	2.5e-05	3	0.906647927730668	0.0933520722693324	Negative	Negative
-Amoxicillin_DoseE	Amoxycillin_DoseE	Amoxycillin	1.25e-05	2	0.975003633735454	0.0249963662645458	Negative	Negative
-Amoxicillin_DoseF	Amoxycillin_DoseF	Amoxycillin	6.25e-06	1	0.870640417858649	0.129359582141351	Negative	Negative
+Amoxicillin_DoseA	Amoxicillin_DoseA	Amoxycillin	2e-04	6	0.9053756003774	0.0946243996225998	Negative	Negative
+Amoxicillin_DoseB	Amoxicillin_DoseB	Amoxycillin	1e-04	5	0.977816937888136	0.0221830621118636	Negative	Negative
+Amoxicillin_DoseC	Amoxicillin_DoseC	Amoxycillin	5e-05	4	0.912547677398922	0.0874523226010784	Negative	Negative
+Amoxicillin_DoseD	Amoxicillin_DoseD	Amoxycillin	2.5e-05	3	0.906647927730668	0.0933520722693324	Negative	Negative
+Amoxicillin_DoseE	Amoxicillin_DoseE	Amoxycillin	1.25e-05	2	0.975003633735454	0.0249963662645458	Negative	Negative
+Amoxicillin_DoseF	Amoxicillin_DoseF	Amoxycillin	6.25e-06	1	0.870640417858649	0.129359582141351	Negative	Negative
 Artesunate_DoseA	Artesunate_DoseA	Artesunate	4e-06	6	0.174586463241438	0.825413536758562	Positive	Negative
 Artesunate_DoseB	Artesunate_DoseB	Artesunate	2e-06	5	0.367609140066309	0.632390859933691	Positive	Negative
 Artesunate_DoseC	Artesunate_DoseC	Artesunate	1e-06	4	0.640717180727804	0.359282819272196	Positive	Negative
