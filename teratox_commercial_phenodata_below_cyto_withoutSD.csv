@@ -1,0 +1,34 @@
+,Unnamed: 0,Contrast,Compound_Name,Concentration,ConcLabel,Viability,Cytotoxicity,Teratogenicity,mEST
+5,Amoxicillin_DoseF,Amoxicillin_DoseF,Amoxycillin,6.25e-06,1,0.8706404178586491,0.129359582141351,Negative,Negative
+9,Artesunate_DoseD,Artesunate_DoseD,Artesunate,5e-07,3,0.8185723813620959,0.181427618637904,Positive,Negative
+17,Ascorbic.Acid_DoseF,Ascorbic.Acid_DoseF,Ascorbic acid,2.8125e-05,1,0.9692172537219459,0.0307827462780541,Negative,Negative
+19,Bosentan_DoseB,Bosentan_DoseB,Bosentan,7.5e-05,5,0.908646309642148,0.09135369035785199,Positive,Negative
+27,Busulfan_DoseD,Busulfan_DoseD,Busulfan,5e-07,3,0.854930156022511,0.145069843977489,Positive,Negative
+32,Carbamazepine_DoseC,Carbamazepine_DoseC,Carbamazepine,7.5e-05,4,0.807355894791861,0.19264410520813896,Positive,Negative
+39,Cetirizine_DoseD,Cetirizine_DoseD,Cetirizine,7.5e-05,3,0.879052587231968,0.12094741276803199,Negative,Negative
+42,Cyclopamine_DoseA,Cyclopamine_DoseA,Cyclopamine,2e-05,6,0.9239356122592409,0.0760643877407593,Positive,Positive
+51,Cyproheptadine_DoseD,Cyproheptadine_DoseD,Cyproheptadine,3.75e-06,3,0.8499237858118941,0.150076214188106,Negative,Positive
+57,Dabrafenib_DoseD,Dabrafenib_DoseD,Dabrafenib,2.5e-07,3,0.861364252504499,0.138635747495501,Positive,Negative
+64,DAPT_DoseE,DAPT_DoseE,DAPT,1.875e-07,2,0.8273328420730831,0.172667157926917,Positive,Positive
+67,Dasatinib_DoseB,Dasatinib_DoseB,Dasatinib,1e-05,5,0.8407638037716461,0.159236196228354,Positive,Positive
+72,Dexamethasone_DoseA,Dexamethasone_DoseA,Dexamethasone,0.0003,6,0.910611166160734,0.0893888338392659,Negative,Negative
+79,Dorsomorphin_DoseB,Dorsomorphin_DoseB,Dorsomorphin,7.000000000000001e-06,5,0.877566041048788,0.12243395895121198,Positive,Negative
+87,Doxycycline_DoseD,Doxycycline_DoseD,Doxycycline,2.5e-06,3,0.918867235699328,0.0811327643006724,Negative,Positive
+90,Hydroxyurea_DoseA,Hydroxyurea_DoseA,Hydroxyurea,0.0002,6,0.8418449560374179,0.158155043962582,Positive,Negative
+100,Ibuprofen_DoseE,Ibuprofen_DoseE,Ibuprofen,8.75e-05,2,0.9119702428782142,0.0880297571217864,Negative,Negative
+106,Imatinib_DoseE,Imatinib_DoseE,Imatinib,6.25e-06,2,0.9180789494709559,0.0819210505290437,Positive,Negative
+111,Isotretinoin_DoseD,Isotretinoin_DoseD,Isotretinoin,3.75e-05,3,0.92224909083856,0.0777509091614398,Positive,Positive
+117,IWP.2_DoseD,IWP.2_DoseD,IWP-2,1.25e-08,3,0.933222300628739,0.0667776993712612,Positive,Positive
+125,Metformin_DoseF,Metformin_DoseF,Metformin,1.5625e-05,1,0.916986355805178,0.0830136441948225,Negative,Negative
+130,Methotrexate_DoseE,Methotrexate_DoseE,Methotrexate,5e-09,2,0.8687661485554691,0.13123385144453098,Positive,Negative
+135,Penicillin.G_DoseD,Penicillin.G_DoseD,Penicillin G,7.5e-05,3,0.9124859144503321,0.0875140855496683,Negative,Negative
+139,Progesteron_DoseB,Progesteron_DoseB,Progesterone,2e-05,5,0.866616967206876,0.133383032793124,Negative,Negative
+144,Retinoic.Acid_DoseA,Retinoic.Acid_DoseA,Retinoic acid,3.5e-09,6,0.848422853354196,0.15157714664580402,Positive,Positive
+150,SB431542_DoseA,SB431542_DoseA,SB431542,2.9999999999999997e-05,6,0.9747214364694642,0.0252785635305363,Positive,Positive
+162,Valproic.Acid_DoseA,Valproic.Acid_DoseA,Valproic acid,0.001,6,0.8836682124806279,0.116331787519372,Positive,Positive
+172,SD_5.Fu_5,SD_5.Fu_5,5-Fu,1.25e-07,5,0.9405545811185351,0.0594454188814653,Positive,Negative
+176,SD_Acitretin_3,SD_Acitretin_3,Acitretin,3.125e-07,3,0.845636384524068,0.154363615475932,Positive,Positive
+199,SD_Lazabemide_2,SD_Lazabemide_2,Lazabemide,6.25e-06,2,0.8542705534060079,0.145729446593992,Negative,Negative
+209,SD_Misoprostol_6,SD_Misoprostol_6,Misoprostol,1.3e-06,6,1.0139805809461,-0.0139805809461033,Positive,Negative
+215,SD_Warfarin_6,SD_Warfarin_6,Warfarin,5.9999999999999995e-05,6,0.912124269148578,0.0878757308514215,Positive,Negative
+161,Thalidomide_DoseF,Thalidomide_DoseF,Thalidomide,2.5e-08,1,0.532103846271332,0.46789615372866794,Positive,Negative
