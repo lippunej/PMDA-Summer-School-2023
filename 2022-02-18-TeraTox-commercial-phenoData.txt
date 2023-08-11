@@ -1,0 +1,217 @@
+	Contrast	Compound_Name	Concentration	ConcLabel	Viability	Cytotoxicity	Teratogenicity	mEST
+Amoxicillin_DoseA	Amoxycillin_DoseA	Amoxycillin	2e-04	6	0.9053756003774	0.0946243996225998	Negative	Negative
+Amoxicillin_DoseB	Amoxycillin_DoseB	Amoxycillin	1e-04	5	0.977816937888136	0.0221830621118636	Negative	Negative
+Amoxicillin_DoseC	Amoxycillin_DoseC	Amoxycillin	5e-05	4	0.912547677398922	0.0874523226010784	Negative	Negative
+Amoxicillin_DoseD	Amoxycillin_DoseD	Amoxycillin	2.5e-05	3	0.906647927730668	0.0933520722693324	Negative	Negative
+Amoxicillin_DoseE	Amoxycillin_DoseE	Amoxycillin	1.25e-05	2	0.975003633735454	0.0249963662645458	Negative	Negative
+Amoxicillin_DoseF	Amoxycillin_DoseF	Amoxycillin	6.25e-06	1	0.870640417858649	0.129359582141351	Negative	Negative
+Artesunate_DoseA	Artesunate_DoseA	Artesunate	4e-06	6	0.174586463241438	0.825413536758562	Positive	Negative
+Artesunate_DoseB	Artesunate_DoseB	Artesunate	2e-06	5	0.367609140066309	0.632390859933691	Positive	Negative
+Artesunate_DoseC	Artesunate_DoseC	Artesunate	1e-06	4	0.640717180727804	0.359282819272196	Positive	Negative
+Artesunate_DoseD	Artesunate_DoseD	Artesunate	5e-07	3	0.818572381362096	0.181427618637904	Positive	Negative
+Artesunate_DoseE	Artesunate_DoseE	Artesunate	2.5e-07	2	0.87451990184606	0.12548009815394	Positive	Negative
+Artesunate_DoseF	Artesunate_DoseF	Artesunate	1.25e-07	1	0.911484567752953	0.0885154322470475	Positive	Negative
+Ascorbic.Acid_DoseA	Ascorbic.Acid_DoseA	Ascorbic acid	9e-04	6	0.991558900363654	0.00844109963634587	Negative	Negative
+Ascorbic.Acid_DoseB	Ascorbic.Acid_DoseB	Ascorbic acid	0.00045	5	1.05951433056579	-0.0595143305657904	Negative	Negative
+Ascorbic.Acid_DoseC	Ascorbic.Acid_DoseC	Ascorbic acid	0.000225	4	1.01967480129959	-0.0196748012995944	Negative	Negative
+Ascorbic.Acid_DoseD	Ascorbic.Acid_DoseD	Ascorbic acid	0.0001125	3	1.02831620086796	-0.0283162008679598	Negative	Negative
+Ascorbic.Acid_DoseE	Ascorbic.Acid_DoseE	Ascorbic acid	5.625e-05	2	1.02829829352067	-0.028298293520669	Negative	Negative
+Ascorbic.Acid_DoseF	Ascorbic.Acid_DoseF	Ascorbic acid	2.8125e-05	1	0.969217253721946	0.0307827462780541	Negative	Negative
+Bosentan_DoseA	Bosentan_DoseA	Bosentan	0.00015	6	0.78654557054384	0.21345442945616	Positive	Negative
+Bosentan_DoseB	Bosentan_DoseB	Bosentan	7.5e-05	5	0.908646309642148	0.091353690357852	Positive	Negative
+Bosentan_DoseC	Bosentan_DoseC	Bosentan	3.75e-05	4	0.982189571473042	0.0178104285269582	Positive	Negative
+Bosentan_DoseD	Bosentan_DoseD	Bosentan	1.875e-05	3	0.982564230430045	0.0174357695699553	Positive	Negative
+Bosentan_DoseE	Bosentan_DoseE	Bosentan	9.375e-06	2	0.978593573476508	0.0214064265234921	Positive	Negative
+Bosentan_DoseF	Bosentan_DoseF	Bosentan	4.6875e-06	1	1.02908181254461	-0.0290818125446077	Positive	Negative
+Busulfan_DoseA	Busulfan_DoseA	Busulfan	4e-06	6	0.367095219705141	0.632904780294859	Positive	Negative
+Busulfan_DoseB	Busulfan_DoseB	Busulfan	2e-06	5	0.635168908769925	0.364831091230075	Positive	Negative
+Busulfan_DoseC	Busulfan_DoseC	Busulfan	1e-06	4	0.784856448178879	0.215143551821121	Positive	Negative
+Busulfan_DoseD	Busulfan_DoseD	Busulfan	5e-07	3	0.854930156022511	0.145069843977489	Positive	Negative
+Busulfan_DoseE	Busulfan_DoseE	Busulfan	2.5e-07	2	0.9616331588433	0.0383668411566995	Positive	Negative
+Busulfan_DoseF	Busulfan_DoseF	Busulfan	1.25e-07	1	0.926861511903482	0.0731384880965185	Positive	Negative
+Carbamazepine_DoseA	Carbamazepine_DoseA	Carbamazepine	3e-04	6	0.683820388645806	0.316179611354194	Positive	Negative
+Carbamazepine_DoseB	Carbamazepine_DoseB	Carbamazepine	0.00015	5	0.739736465494318	0.260263534505682	Positive	Negative
+Carbamazepine_DoseC	Carbamazepine_DoseC	Carbamazepine	7.5e-05	4	0.807355894791861	0.192644105208139	Positive	Negative
+Carbamazepine_DoseD	Carbamazepine_DoseD	Carbamazepine	3.75e-05	3	0.888919823372563	0.111080176627437	Positive	Negative
+Carbamazepine_DoseE	Carbamazepine_DoseE	Carbamazepine	1.875e-05	2	0.9230285188117	0.0769714811883003	Positive	Negative
+Carbamazepine_DoseF	Carbamazepine_DoseF	Carbamazepine	9.375e-06	1	0.963233099161262	0.0367669008387383	Positive	Negative
+Cetirizine_DoseA	Cetirizine_DoseA	Cetirizine	6e-04	6	0.00240507280294013	0.99759492719706	Negative	Negative
+Cetirizine_DoseB	Cetirizine_DoseB	Cetirizine	3e-04	5	0.68075307603763	0.31924692396237	Negative	Negative
+Cetirizine_DoseC	Cetirizine_DoseC	Cetirizine	0.00015	4	0.952768187096259	0.0472318129037415	Negative	Negative
+Cetirizine_DoseD	Cetirizine_DoseD	Cetirizine	7.5e-05	3	0.879052587231968	0.120947412768032	Negative	Negative
+Cetirizine_DoseE	Cetirizine_DoseE	Cetirizine	3.75e-05	2	0.920848733760081	0.0791512662399194	Negative	Negative
+Cetirizine_DoseF	Cetirizine_DoseF	Cetirizine	1.875e-05	1	0.946975367610016	0.0530246323899844	Negative	Negative
+Cyclopamine_DoseA	Cyclopamine_DoseA	Cyclopamine	2e-05	6	0.923935612259241	0.0760643877407593	Positive	Positive
+Cyclopamine_DoseB	Cyclopamine_DoseB	Cyclopamine	1e-05	5	0.944097395867111	0.0559026041328885	Positive	Positive
+Cyclopamine_DoseC	Cyclopamine_DoseC	Cyclopamine	5e-06	4	0.959707370948704	0.0402926290512957	Positive	Positive
+Cyclopamine_DoseD	Cyclopamine_DoseD	Cyclopamine	2.5e-06	3	0.958781295607242	0.0412187043927581	Positive	Positive
+Cyclopamine_DoseE	Cyclopamine_DoseE	Cyclopamine	1.25e-06	2	0.965440797629847	0.0345592023701534	Positive	Positive
+Cyclopamine_DoseF	Cyclopamine_DoseF	Cyclopamine	6.25e-07	1	0.966679139292936	0.0333208607070635	Positive	Positive
+Cyproheptadine_DoseA	Cyproheptadine_DoseA	Cyproheptadine	3e-05	6	0.596876677761435	0.403123322238565	Negative	Positive
+Cyproheptadine_DoseB	Cyproheptadine_DoseB	Cyproheptadine	1.5e-05	5	0.734396727824551	0.265603272175449	Negative	Positive
+Cyproheptadine_DoseC	Cyproheptadine_DoseC	Cyproheptadine	7.5e-06	4	0.76181298543567	0.23818701456433	Negative	Positive
+Cyproheptadine_DoseD	Cyproheptadine_DoseD	Cyproheptadine	3.75e-06	3	0.849923785811894	0.150076214188106	Negative	Positive
+Cyproheptadine_DoseE	Cyproheptadine_DoseE	Cyproheptadine	1.875e-06	2	0.935864583616877	0.0641354163831227	Negative	Positive
+Cyproheptadine_DoseF	Cyproheptadine_DoseF	Cyproheptadine	9.375e-07	1	0.963009841976857	0.0369901580231433	Negative	Positive
+Dabrafenib_DoseA	Dabrafenib_DoseA	Dabrafenib	2e-06	6	0.154523365607563	0.845476634392437	Positive	Negative
+Dabrafenib_DoseB	Dabrafenib_DoseB	Dabrafenib	1e-06	5	0.402300752919544	0.597699247080456	Positive	Negative
+Dabrafenib_DoseC	Dabrafenib_DoseC	Dabrafenib	5e-07	4	0.752505270109336	0.247494729890664	Positive	Negative
+Dabrafenib_DoseD	Dabrafenib_DoseD	Dabrafenib	2.5e-07	3	0.861364252504499	0.138635747495501	Positive	Negative
+Dabrafenib_DoseE	Dabrafenib_DoseE	Dabrafenib	1.25e-07	2	0.911468193042109	0.0885318069578905	Positive	Negative
+Dabrafenib_DoseF	Dabrafenib_DoseF	Dabrafenib	6.25e-08	1	0.96810283454173	0.0318971654582696	Positive	Negative
+DAPT_DoseA	DAPT_DoseA	DAPT	3e-06	6	0.512130515246757	0.487869484753243	Positive	Positive
+DAPT_DoseB	DAPT_DoseB	DAPT	1.5e-06	5	0.591757022817678	0.408242977182322	Positive	Positive
+DAPT_DoseC	DAPT_DoseC	DAPT	7.5e-07	4	0.634597531708471	0.365402468291529	Positive	Positive
+DAPT_DoseD	DAPT_DoseD	DAPT	3.75e-07	3	0.738794434084741	0.261205565915259	Positive	Positive
+DAPT_DoseE	DAPT_DoseE	DAPT	1.875e-07	2	0.827332842073083	0.172667157926917	Positive	Positive
+DAPT_DoseF	DAPT_DoseF	DAPT	9.375e-08	1	0.927279254517265	0.0727207454827354	Positive	Positive
+Dasatinib_DoseA	Dasatinib_DoseA	Dasatinib	2e-05	6	0.338981425874739	0.661018574125261	Positive	Positive
+Dasatinib_DoseB	Dasatinib_DoseB	Dasatinib	1e-05	5	0.840763803771646	0.159236196228354	Positive	Positive
+Dasatinib_DoseC	Dasatinib_DoseC	Dasatinib	5e-06	4	0.899058874554884	0.100941125445116	Positive	Positive
+Dasatinib_DoseD	Dasatinib_DoseD	Dasatinib	2.5e-06	3	0.896017861560207	0.103982138439793	Positive	Positive
+Dasatinib_DoseE	Dasatinib_DoseE	Dasatinib	1.25e-06	2	0.923017876115297	0.0769821238847035	Positive	Positive
+Dasatinib_DoseF	Dasatinib_DoseF	Dasatinib	6.25e-07	1	0.793722709520341	0.206277290479659	Positive	Positive
+Dexamethasone_DoseA	Dexamethasone_DoseA	Dexamethasone	3e-04	6	0.910611166160734	0.0893888338392659	Negative	Negative
+Dexamethasone_DoseB	Dexamethasone_DoseB	Dexamethasone	0.00015	5	0.952487055501757	0.0475129444982433	Negative	Negative
+Dexamethasone_DoseC	Dexamethasone_DoseC	Dexamethasone	7.5e-05	4	0.921369383838082	0.0786306161619178	Negative	Negative
+Dexamethasone_DoseD	Dexamethasone_DoseD	Dexamethasone	3.75e-05	3	0.99401913585634	0.00598086414365995	Negative	Negative
+Dexamethasone_DoseE	Dexamethasone_DoseE	Dexamethasone	1.875e-05	2	0.960245154892636	0.039754845107364	Negative	Negative
+Dexamethasone_DoseF	Dexamethasone_DoseF	Dexamethasone	9.375e-06	1	0.988583772185898	0.0114162278141023	Negative	Negative
+Dorsomorphin_DoseA	Dorsomorphin_DoseA	Dorsomorphin	1.4e-05	6	0.459102739258161	0.540897260741839	Positive	Negative
+Dorsomorphin_DoseB	Dorsomorphin_DoseB	Dorsomorphin	7e-06	5	0.877566041048788	0.122433958951212	Positive	Negative
+Dorsomorphin_DoseC	Dorsomorphin_DoseC	Dorsomorphin	3.5e-06	4	0.913454364863456	0.0865456351365442	Positive	Negative
+Dorsomorphin_DoseD	Dorsomorphin_DoseD	Dorsomorphin	1.75e-06	3	0.937582564689101	0.0624174353108994	Positive	Negative
+Dorsomorphin_DoseE	Dorsomorphin_DoseE	Dorsomorphin	8.75e-07	2	0.923296968311649	0.0767030316883506	Positive	Negative
+Dorsomorphin_DoseF	Dorsomorphin_DoseF	Dorsomorphin	4.375e-07	1	0.964714818921131	0.035285181078869	Positive	Negative
+Doxycycline_DoseA	Doxycycline_DoseA	Doxycycline	2e-05	6	0.293409169725203	0.706590830274797	Negative	Positive
+Doxycycline_DoseB	Doxycycline_DoseB	Doxycycline	1e-05	5	0.775334530734525	0.224665469265475	Negative	Positive
+Doxycycline_DoseC	Doxycycline_DoseC	Doxycycline	5e-06	4	0.927996504723261	0.0720034952767393	Negative	Positive
+Doxycycline_DoseD	Doxycycline_DoseD	Doxycycline	2.5e-06	3	0.918867235699328	0.0811327643006724	Negative	Positive
+Doxycycline_DoseE	Doxycycline_DoseE	Doxycycline	1.25e-06	2	0.934962898913664	0.0650371010863355	Negative	Positive
+Doxycycline_DoseF	Doxycycline_DoseF	Doxycycline	6.25e-07	1	0.944620938975466	0.0553790610245336	Negative	Positive
+Hydroxyurea_DoseA	Hydroxyurea_DoseA	Hydroxyurea	2e-04	6	0.841844956037418	0.158155043962582	Positive	Negative
+Hydroxyurea_DoseB	Hydroxyurea_DoseB	Hydroxyurea	1e-04	5	0.906269730991632	0.0937302690083682	Positive	Negative
+Hydroxyurea_DoseC	Hydroxyurea_DoseC	Hydroxyurea	5e-05	4	0.91366764559998	0.0863323544000196	Positive	Negative
+Hydroxyurea_DoseD	Hydroxyurea_DoseD	Hydroxyurea	2.5e-05	3	0.935304967943643	0.0646950320563572	Positive	Negative
+Hydroxyurea_DoseE	Hydroxyurea_DoseE	Hydroxyurea	1.25e-05	2	0.907803730243935	0.0921962697560652	Positive	Negative
+Hydroxyurea_DoseF	Hydroxyurea_DoseF	Hydroxyurea	6.25e-06	1	0.944174744273296	0.0558252557267045	Positive	Negative
+Ibuprofen_DoseA	Ibuprofen_DoseA	Ibuprofen	0.0014	6	0.947075890170079	0.052924109829921	Negative	Negative
+Ibuprofen_DoseB	Ibuprofen_DoseB	Ibuprofen	7e-04	5	0.960260068758745	0.0397399312412549	Negative	Negative
+Ibuprofen_DoseC	Ibuprofen_DoseC	Ibuprofen	0.00035	4	0.958186774013262	0.0418132259867383	Negative	Negative
+Ibuprofen_DoseD	Ibuprofen_DoseD	Ibuprofen	0.000175	3	0.929465392484473	0.0705346075155268	Negative	Negative
+Ibuprofen_DoseE	Ibuprofen_DoseE	Ibuprofen	8.75e-05	2	0.911970242878214	0.0880297571217864	Negative	Negative
+Ibuprofen_DoseF	Ibuprofen_DoseF	Ibuprofen	4.375e-05	1	0.921901944221861	0.0780980557781393	Negative	Negative
+Imatinib_DoseA	Imatinib_DoseA	Imatinib	1e-04	6	0.0163588262270281	0.983641173772972	Positive	Negative
+Imatinib_DoseB	Imatinib_DoseB	Imatinib	5e-05	5	0.798726108660154	0.201273891339846	Positive	Negative
+Imatinib_DoseC	Imatinib_DoseC	Imatinib	2.5e-05	4	0.979028986949542	0.0209710130504577	Positive	Negative
+Imatinib_DoseD	Imatinib_DoseD	Imatinib	1.25e-05	3	0.920346611354971	0.0796533886450291	Positive	Negative
+Imatinib_DoseE	Imatinib_DoseE	Imatinib	6.25e-06	2	0.918078949470956	0.0819210505290437	Positive	Negative
+Imatinib_DoseF	Imatinib_DoseF	Imatinib	3.125e-06	1	0.927810168491746	0.0721898315082535	Positive	Negative
+Isotretinoin_DoseA	Isotretinoin_DoseA	Isotretinoin	3e-04	6	0.736375819839685	0.263624180160315	Positive	Positive
+Isotretinoin_DoseB	Isotretinoin_DoseB	Isotretinoin	0.00015	5	0.971423089232644	0.0285769107673561	Positive	Positive
+Isotretinoin_DoseC	Isotretinoin_DoseC	Isotretinoin	7.5e-05	4	1.07331981259346	-0.0733198125934624	Positive	Positive
+Isotretinoin_DoseD	Isotretinoin_DoseD	Isotretinoin	3.75e-05	3	0.92224909083856	0.0777509091614398	Positive	Positive
+Isotretinoin_DoseE	Isotretinoin_DoseE	Isotretinoin	1.875e-05	2	1.02932121758111	-0.029321217581106	Positive	Positive
+Isotretinoin_DoseF	Isotretinoin_DoseF	Isotretinoin	9.375e-06	1	0.930344467800572	0.0696555321994283	Positive	Positive
+IWP.2_DoseA	IWP.2_DoseA	IWP-2	1e-07	6	0.940522011534278	0.0594779884657224	Positive	Positive
+IWP.2_DoseB	IWP.2_DoseB	IWP-2	5e-08	5	0.938252436040421	0.0617475639595789	Positive	Positive
+IWP.2_DoseC	IWP.2_DoseC	IWP-2	2.5e-08	4	0.933831654267247	0.0661683457327533	Positive	Positive
+IWP.2_DoseD	IWP.2_DoseD	IWP-2	1.25e-08	3	0.933222300628739	0.0667776993712612	Positive	Positive
+IWP.2_DoseE	IWP.2_DoseE	IWP-2	6.25e-09	2	0.936323630078021	0.0636763699219792	Positive	Positive
+IWP.2_DoseF	IWP.2_DoseF	IWP-2	3.125e-09	1	0.972467204824682	0.0275327951753178	Positive	Positive
+Metformin_DoseA	Metformin_DoseA	Metformin	5e-04	6	0.932693649106102	0.0673063508938978	Negative	Negative
+Metformin_DoseB	Metformin_DoseB	Metformin	0.00025	5	0.942896231202469	0.0571037687975309	Negative	Negative
+Metformin_DoseC	Metformin_DoseC	Metformin	0.000125	4	0.972986418186707	0.0270135818132935	Negative	Negative
+Metformin_DoseD	Metformin_DoseD	Metformin	6.25e-05	3	0.945849908013777	0.0541500919862234	Negative	Negative
+Metformin_DoseE	Metformin_DoseE	Metformin	3.125e-05	2	0.938038534859209	0.0619614651407914	Negative	Negative
+Metformin_DoseF	Metformin_DoseF	Metformin	1.5625e-05	1	0.916986355805178	0.0830136441948225	Negative	Negative
+Methotrexate_DoseA	Methotrexate_DoseA	Methotrexate	8e-08	6	0.674087531690256	0.325912468309744	Positive	Negative
+Methotrexate_DoseB	Methotrexate_DoseB	Methotrexate	4e-08	5	0.707479246960022	0.292520753039978	Positive	Negative
+Methotrexate_DoseC	Methotrexate_DoseC	Methotrexate	2e-08	4	0.694309655357091	0.305690344642909	Positive	Negative
+Methotrexate_DoseD	Methotrexate_DoseD	Methotrexate	1e-08	3	0.70212828607031	0.29787171392969	Positive	Negative
+Methotrexate_DoseE	Methotrexate_DoseE	Methotrexate	5e-09	2	0.868766148555469	0.131233851444531	Positive	Negative
+Methotrexate_DoseF	Methotrexate_DoseF	Methotrexate	2.5e-09	1	0.954303692405429	0.0456963075945711	Positive	Negative
+Penicillin.G_DoseA	Penicillin.G_DoseA	Penicillin G	6e-04	6	0.970866761208233	0.0291332387917673	Negative	Negative
+Penicillin.G_DoseB	Penicillin.G_DoseB	Penicillin G	3e-04	5	0.941544482553154	0.0584555174468455	Negative	Negative
+Penicillin.G_DoseC	Penicillin.G_DoseC	Penicillin G	0.00015	4	0.913253255723862	0.0867467442761383	Negative	Negative
+Penicillin.G_DoseD	Penicillin.G_DoseD	Penicillin G	7.5e-05	3	0.912485914450332	0.0875140855496683	Negative	Negative
+Penicillin.G_DoseE	Penicillin.G_DoseE	Penicillin G	3.75e-05	2	0.963143061820139	0.0368569381798611	Negative	Negative
+Penicillin.G_DoseF	Penicillin.G_DoseF	Penicillin G	1.875e-05	1	0.94038553495144	0.0596144650485599	Negative	Negative
+Progesteron_DoseA	Progesteron_DoseA	Progesterone	4e-05	6	0.706744065618362	0.293255934381638	Negative	Negative
+Progesteron_DoseB	Progesteron_DoseB	Progesterone	2e-05	5	0.866616967206876	0.133383032793124	Negative	Negative
+Progesteron_DoseC	Progesteron_DoseC	Progesterone	1e-05	4	0.910209514167718	0.0897904858322822	Negative	Negative
+Progesteron_DoseD	Progesteron_DoseD	Progesterone	5e-06	3	0.899723409119819	0.100276590880181	Negative	Negative
+Progesteron_DoseE	Progesteron_DoseE	Progesterone	2.5e-06	2	0.916797070755034	0.0832029292449664	Negative	Negative
+Progesteron_DoseF	Progesteron_DoseF	Progesterone	1.25e-06	1	0.955158576219914	0.0448414237800863	Negative	Negative
+Retinoic.Acid_DoseA	Retinoic.Acid_DoseA	Retinoic acid	3.5e-09	6	0.848422853354196	0.151577146645804	Positive	Positive
+Retinoic.Acid_DoseB	Retinoic.Acid_DoseB	Retinoic acid	1.75e-09	5	0.869744003418971	0.130255996581029	Positive	Positive
+Retinoic.Acid_DoseC	Retinoic.Acid_DoseC	Retinoic acid	8.75e-10	4	0.904819019897895	0.0951809801021053	Positive	Positive
+Retinoic.Acid_DoseD	Retinoic.Acid_DoseD	Retinoic acid	4.375e-10	3	0.870580249235372	0.129419750764628	Positive	Positive
+Retinoic.Acid_DoseE	Retinoic.Acid_DoseE	Retinoic acid	2.1875e-10	2	0.916673488321114	0.0833265116788865	Positive	Positive
+Retinoic.Acid_DoseF	Retinoic.Acid_DoseF	Retinoic acid	1.09375e-10	1	0.909151045731486	0.090848954268514	Positive	Positive
+SB431542_DoseA	SB431542_DoseA	SB431542	3e-05	6	0.974721436469464	0.0252785635305363	Positive	Positive
+SB431542_DoseB	SB431542_DoseB	SB431542	1.5e-05	5	1.00839144561564	-0.00839144561564376	Positive	Positive
+SB431542_DoseC	SB431542_DoseC	SB431542	7.5e-06	4	1.08774534956394	-0.0877453495639386	Positive	Positive
+SB431542_DoseD	SB431542_DoseD	SB431542	3.75e-06	3	1.04274684833418	-0.042746848334178	Positive	Positive
+SB431542_DoseE	SB431542_DoseE	SB431542	1.875e-06	2	1.052574702727	-0.0525747027269958	Positive	Positive
+SB431542_DoseF	SB431542_DoseF	SB431542	9.375e-07	1	1.03883349234019	-0.0388334923401938	Positive	Positive
+Thalidomide_DoseA	Thalidomide_DoseA	Thalidomide	8e-07	6	0.438655892489904	0.561344107510096	Positive	Negative
+Thalidomide_DoseB	Thalidomide_DoseB	Thalidomide	4e-07	5	0.460699521859112	0.539300478140888	Positive	Negative
+Thalidomide_DoseC	Thalidomide_DoseC	Thalidomide	2e-07	4	0.470822764732639	0.529177235267361	Positive	Negative
+Thalidomide_DoseD	Thalidomide_DoseD	Thalidomide	1e-07	3	0.46404275326568	0.53595724673432	Positive	Negative
+Thalidomide_DoseE	Thalidomide_DoseE	Thalidomide	5e-08	2	0.491092535248255	0.508907464751745	Positive	Negative
+Thalidomide_DoseF	Thalidomide_DoseF	Thalidomide	2.5e-08	1	0.532103846271332	0.467896153728668	Positive	Negative
+Valproic.Acid_DoseA	Valproic.Acid_DoseA	Valproic acid	0.001	6	0.883668212480628	0.116331787519372	Positive	Positive
+Valproic.Acid_DoseB	Valproic.Acid_DoseB	Valproic acid	5e-04	5	0.952110758862117	0.0478892411378833	Positive	Positive
+Valproic.Acid_DoseC	Valproic.Acid_DoseC	Valproic acid	0.00025	4	0.967669571924028	0.0323304280759715	Positive	Positive
+Valproic.Acid_DoseD	Valproic.Acid_DoseD	Valproic acid	0.000125	3	0.952248809958326	0.0477511900416743	Positive	Positive
+Valproic.Acid_DoseE	Valproic.Acid_DoseE	Valproic acid	6.25e-05	2	0.955186286403074	0.0448137135969261	Positive	Positive
+Valproic.Acid_DoseF	Valproic.Acid_DoseF	Valproic acid	3.125e-05	1	0.984432179833296	0.0155678201667044	Positive	Positive
+SD_5.Fu_1	SD_5.Fu_1	5-Fu	7.8125e-09	1	1.00935168149519	-0.00935168149518995	Positive	Negative
+SD_5.Fu_2	SD_5.Fu_2	5-Fu	1.5625e-08	2	0.999059841049741	0.000940158950259229	Positive	Negative
+SD_5.Fu_3	SD_5.Fu_3	5-Fu	3.125e-08	3	0.962241086132794	0.0377589138672058	Positive	Negative
+SD_5.Fu_4	SD_5.Fu_4	5-Fu	6.25e-08	4	0.965427718344558	0.0345722816554421	Positive	Negative
+SD_5.Fu_5	SD_5.Fu_5	5-Fu	1.25e-07	5	0.940554581118535	0.0594454188814653	Positive	Negative
+SD_5.Fu_6	SD_5.Fu_6	5-Fu	2.5e-07	6	0.94154153695081	0.0584584630491904	Positive	Negative
+SD_Acitretin_1	SD_Acitretin_1	Acitretin	7.8125e-08	1	0.974464201376036	0.0255357986239645	Positive	Positive
+SD_Acitretin_2	SD_Acitretin_2	Acitretin	1.5625e-07	2	0.94955259697987	0.05044740302013	Positive	Positive
+SD_Acitretin_3	SD_Acitretin_3	Acitretin	3.125e-07	3	0.845636384524068	0.154363615475932	Positive	Positive
+SD_Acitretin_4	SD_Acitretin_4	Acitretin	6.25e-07	4	0.95205830918676	0.0479416908132396	Positive	Positive
+SD_Acitretin_5	SD_Acitretin_5	Acitretin	1.25e-06	5	1.01351144356084	-0.013511443560843	Positive	Positive
+SD_Acitretin_6	SD_Acitretin_6	Acitretin	2.5e-06	6	1.06789073462237	-0.0678907346223738	Positive	Positive
+SD_Ascorbic.acid_1	SD_Ascorbic.acid_1	Ascorbic acid	2.8125e-05	1	1.14345113256406	-0.143451132564064	Negative	Negative
+SD_Ascorbic.acid_2	SD_Ascorbic.acid_2	Ascorbic acid	5.625e-05	2	1.19531526153314	-0.195315261533144	Negative	Negative
+SD_Ascorbic.acid_3	SD_Ascorbic.acid_3	Ascorbic acid	0.0001125	3	1.01480934538818	-0.0148093453881823	Negative	Negative
+SD_Ascorbic.acid_4	SD_Ascorbic.acid_4	Ascorbic acid	0.000225	4	1.10822002456005	-0.108220024560053	Negative	Negative
+SD_Ascorbic.acid_5	SD_Ascorbic.acid_5	Ascorbic acid	0.00045	5	1.08412603653635	-0.0841260365363519	Negative	Negative
+SD_Ascorbic.acid_6	SD_Ascorbic.acid_6	Ascorbic acid	9e-04	6	0.895598828029881	0.104401171970119	Negative	Negative
+SD_Cetirizine_1	SD_Cetirizine_1	Cetirizine	1.875e-05	1	0.992990927228061	0.00700907277193896	Negative	Negative
+SD_Cetirizine_2	SD_Cetirizine_2	Cetirizine	3.75e-05	2	0.935546851209346	0.0644531487906537	Negative	Negative
+SD_Cetirizine_3	SD_Cetirizine_3	Cetirizine	7.5e-05	3	0.883553123110415	0.116446876889585	Negative	Negative
+SD_Cetirizine_4	SD_Cetirizine_4	Cetirizine	0.00015	4	0.748753950039428	0.251246049960572	Negative	Negative
+SD_Cetirizine_5	SD_Cetirizine_5	Cetirizine	3e-04	5	0.568753758221686	0.431246241778314	Negative	Negative
+SD_Cetirizine_6	SD_Cetirizine_6	Cetirizine	6e-04	6	0.0305860086978074	0.969413991302193	Negative	Negative
+SD_Ibuprofen_11	SD_Ibuprofen_11	Ibuprofen	7e-04	11	0.939920618177676	0.0600793818223235	Negative	Negative
+SD_Ibuprofen_12	SD_Ibuprofen_12	Ibuprofen	0.0014	12	0.909245122495969	0.0907548775040309	Negative	Negative
+SD_Ibuprofen_3	SD_Ibuprofen_3	Ibuprofen	4.375e-05	3	0.893586450981494	0.106413549018506	Negative	Negative
+SD_Ibuprofen_5	SD_Ibuprofen_5	Ibuprofen	8.75e-05	5	0.882133861488751	0.117866138511249	Negative	Negative
+SD_Ibuprofen_7	SD_Ibuprofen_7	Ibuprofen	0.000175	7	0.886867717776494	0.113132282223506	Negative	Negative
+SD_Ibuprofen_9	SD_Ibuprofen_9	Ibuprofen	0.00035	9	0.885517340973963	0.114482659026037	Negative	Negative
+SD_Lazabemide_1	SD_Lazabemide_1	Lazabemide	3.125e-06	1	0.878475351373564	0.121524648626436	Negative	Negative
+SD_Lazabemide_2	SD_Lazabemide_2	Lazabemide	6.25e-06	2	0.854270553406008	0.145729446593992	Negative	Negative
+SD_Lazabemide_3	SD_Lazabemide_3	Lazabemide	1.25e-05	3	0.871202405744454	0.128797594255546	Negative	Negative
+SD_Lazabemide_4	SD_Lazabemide_4	Lazabemide	2.5e-05	4	0.980770075150757	0.0192299248492429	Negative	Negative
+SD_Lazabemide_5	SD_Lazabemide_5	Lazabemide	5e-05	5	0.932571060166614	0.0674289398333863	Negative	Negative
+SD_Lazabemide_6	SD_Lazabemide_6	Lazabemide	1e-04	6	0.972415899122576	0.0275841008774239	Negative	Negative
+SD_Misoprostol_1	SD_Misoprostol_1	Misoprostol	4.0625e-08	1	1.05005357730975	-0.0500535773097459	Positive	Negative
+SD_Misoprostol_2	SD_Misoprostol_2	Misoprostol	8.125e-08	2	1.07705423885177	-0.0770542388517685	Positive	Negative
+SD_Misoprostol_3	SD_Misoprostol_3	Misoprostol	1.625e-07	3	1.03678855148412	-0.0367885514841202	Positive	Negative
+SD_Misoprostol_4	SD_Misoprostol_4	Misoprostol	3.25e-07	4	1.04610430543589	-0.0461043054358927	Positive	Negative
+SD_Misoprostol_5	SD_Misoprostol_5	Misoprostol	6.5e-07	5	1.07229479580171	-0.0722947958017099	Positive	Negative
+SD_Misoprostol_6	SD_Misoprostol_6	Misoprostol	1.3e-06	6	1.0139805809461	-0.0139805809461033	Positive	Negative
+SD_Warfarin_1	SD_Warfarin_1	Warfarin	1.875e-06	1	1.07305199696752	-0.0730519969675165	Positive	Negative
+SD_Warfarin_2	SD_Warfarin_2	Warfarin	3.75e-06	2	1.06243107307249	-0.0624310730724866	Positive	Negative
+SD_Warfarin_3	SD_Warfarin_3	Warfarin	7.5e-06	3	0.944357693690814	0.0556423063091862	Positive	Negative
+SD_Warfarin_4	SD_Warfarin_4	Warfarin	1.5e-05	4	0.91442876375676	0.0855712362432399	Positive	Negative
+SD_Warfarin_5	SD_Warfarin_5	Warfarin	3e-05	5	1.0100291316081	-0.010029131608096	Positive	Negative
+SD_Warfarin_6	SD_Warfarin_6	Warfarin	6e-05	6	0.912124269148578	0.0878757308514215	Positive	Negative
